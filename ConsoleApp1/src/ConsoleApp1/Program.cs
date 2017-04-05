@@ -9,7 +9,9 @@ namespace ConsoleApp1
     {
         public void Main(string[] args)
         {
+
             Console.WriteLine("Feature1 branch1");
+
             Console.WriteLine("Feature1 line2");
         }
     }
